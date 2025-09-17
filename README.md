@@ -14,7 +14,7 @@ EQUIPMENTS REQUIRED
 
 THEORY:
 
-Frequency modulation is a type of modulation in which the frequency of the high frequency (carrier) is varied in accordance with the instantaneous value of the modulating signal.
+Frequency modulation is a type of modulation in which the frequency of the high frequency (carrier) is varied in accordance with the instantaneous value of the modulating signal
 FREQUENCY DEVIATION f and MODULATION INDEX m f :
 The frequency deviation f represents the maximum shift between the  modulatedsignal
 frequency, over and under the frequency of the carrier.
